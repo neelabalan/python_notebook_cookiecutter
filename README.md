@@ -1,8 +1,12 @@
 # python_notebook_cookiecutter
 
-```
-cd {{cookiecutter.project_name}}
-poetry env use /usr/bin/python3.8
-poetry shell
-poetry intall
-```
+> Spin up notebook on the go
+## Dependencies
+
+- python3.8.13
+- poetry
+- pandas
+- numpy
+- plotly
+- statsmodels
+- scikit-learn
