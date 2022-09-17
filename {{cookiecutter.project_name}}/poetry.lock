@@ -657,7 +657,7 @@ docs = ["jaraco.tidelift (>=1.4)", "rst.linker (>=1.9)", "jaraco.packaging (>=9)
 [metadata]
 lock-version = "1.1"
 python-versions = "3.8.13"
-content-hash = "7a772a998fe70c898f2eb88814eaac6f4caa72feb5d57adeca6dccb85c02e55d"
+content-hash = "4b1b2211dc6711a414aa68fde5333f045c3f97296f95a83139c770d5699e1f71"
 
 [metadata.files]
 appnope = [
